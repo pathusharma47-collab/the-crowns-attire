@@ -1,0 +1,30 @@
+{
+  "name": "The Crown's Attire",
+  "short_name": "Crown's Attire",
+  "description": "Premium men's fashion from Coimbatore. Shirts, trousers, blazers, polos & more.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#071D3A",
+  "theme_color": "#071D3A",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "/__l5e/assets-v1/f33a6f6e-630a-4a8d-971e-5ef23459e91c/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/__l5e/assets-v1/6571f224-8a0b-46f6-8a5d-06838d627040/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/__l5e/assets-v1/8cefeff9-1b66-43f8-90be-abd11f76d822/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
