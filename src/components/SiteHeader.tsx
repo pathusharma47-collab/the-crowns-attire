@@ -32,7 +32,7 @@ export function SiteHeader() {
             alt="The Crown's Attire"
             className="h-10 w-auto lg:h-12"
           />
-          <span className="hidden lg:inline font-heading text-royal text-sm tracking-[0.15em] font-medium uppercase">
+          <span className="font-heading text-royal text-sm tracking-[0.15em] font-medium uppercase">
             THE CROWNS ATTIRE
           </span>
         </Link>
